@@ -1,4 +1,4 @@
-<h1 align="center" style="color: white;">Olá, meu nome é Everton Barbosa<picture> <img src="https://user-images.githubusercontent.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></picture></h1> 
+<h1 align="center" style="color: white;">Olá, meu nome é Everton Barbosa</h1> 
 
 <h2  align="center" style="color: white;" >Bem-vindo ao meu perfil do Github</h2>
 <p align="center">
@@ -38,6 +38,7 @@
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=green)](https://github.com/nbeverton)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=orange)](https://github.com/nbeverton)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=blue)](https://github.com/nbeverton)
+[![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.jsl&logoColor=blue)](https://github.com/nbeverton)
 
 
 
