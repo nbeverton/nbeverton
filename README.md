@@ -5,7 +5,7 @@
 
 
   <i style="color: white;">
-     Em transição de carreira para a área de tecnologia, com foco em desenvolvimento de sistemas e gerenciamento de banco de dados. Sou mestre em geociências e agora cursando Análise e Desenvolvimento de Sistemas.
+     Desenvolvedor e gestor de negócios experiente com forte aptidão para tecnologia. Possui graduação em Análise e Desenvolvimento de Sistemas, com especialização em backend utilizando Java e TypeScript. Proficiente em bancos de dados, controle de versão Git e frameworks como Angular, React, Node.js, Spring e Hibernate. Possui habilidades comprovadas em liderança e gestão de projetos, adquiridas através de anos de experiência como co-fundador de empresas de médio porte. Busca aplicar sua expertise técnica e habilidades de gestão para impulsionar projetos inovadores.
     <div align="center">
     <a href="https://www.linkedin.com/in/evertonbarbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div> 
