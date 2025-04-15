@@ -24,7 +24,6 @@
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=yellow)
-![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=blue)
 
 
 ## Tecnologias e Frameworks <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>
@@ -39,6 +38,7 @@
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=orange)](https://github.com/nbeverton)
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=blue)](https://github.com/nbeverton)
 [![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.jsl&logoColor=blue)](https://github.com/nbeverton)
+![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=blue)
 
 
 
