@@ -5,7 +5,7 @@
 
 
   <i style="color: white;">
-     Desenvolvedor e gestor de negócios experiente com forte aptidão para tecnologia. Possui graduação em Análise e Desenvolvimento de Sistemas, com especialização em backend utilizando Java e TypeScript. Proficiente em bancos de dados, controle de versão Git e frameworks como Angular, React, Node.js, Spring e Hibernate. Possui habilidades comprovadas em liderança e gestão de projetos, adquiridas através de anos de experiência como co-fundador de empresas de médio porte. Busca aplicar sua expertise técnica e habilidades de gestão para impulsionar projetos inovadores.
+     Desenvolvedor backend Java em transição de carreira, com sólida experiência em gestão e liderança. Pós-graduando em Arquitetura e Desenvolvimento em Java (FIAP), formado em Análise e Desenvolvimento de Sistemas. Experiência prática com Java 17, Spring Boot, Spring Security, JWT, JPA/Hibernate, MySQL e integração de sistemas. Em constante evolução para o fullstack, com conhecimentos em React, Angular, Node.js e Bootstrap. Foco em arquitetura limpa, segurança, escalabilidade e boas práticas de desenvolvimento.
     <div align="center">
     <a href="https://www.linkedin.com/in/evertonbarbosa-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div> 
